@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "axios": "^0.25.0",
+    "googleapis": "^92.0.0",
+    "screenshotmachine": "^2.0.0"
+  }
+}
